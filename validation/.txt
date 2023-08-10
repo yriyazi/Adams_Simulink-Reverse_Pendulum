@@ -1,0 +1,77 @@
+
+  *******************************************************************************
+  Energy/Marker Mode table computation at time 0.000000
+  *******************************************************************************
+
+  -------------------------------------------------------------------------------
+  Energy table for MODE 1
+  -------------------------------------------------------------------------------
+  Damping ratio          =     1.00000E+0
+  Undamped natural freq. =     0.00000E+0 Cycles per unit time
+  Generalized stiffness  =     0.00000E+0 User mass/time^2
+  Generalized mass       =     1.00000E+0 User mass
+  Kinetic energy         =     0.00000E+0 User mass/time^2
+
+                            Normalized coordinates in this mode
+               +----------------------------------------------------------------+
+               |     X          Y          Z          RX         RY         RZ  |
+               |mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph. |
+               +----------------------------------------------------------------+
+  PART/2       |1.00       0.00       0.00       0.00       0.00       0.00     |
+  PART/3       |1.00       0.00       0.00       0.00       0.00       0.00     |
+               +----------------------------------------------------------------+
+
+  -------------------------------------------------------------------------------
+  Energy table for MODE 2
+  -------------------------------------------------------------------------------
+  Damping ratio          =     1.00000E+0
+  Undamped natural freq. =     0.00000E+0 Cycles per unit time
+  Generalized stiffness  =     0.00000E+0 User mass/time^2
+  Generalized mass       =     0.00000E+0 User mass
+  Kinetic energy         =     0.00000E+0 User mass/time^2
+
+                            Normalized coordinates in this mode
+               +----------------------------------------------------------------+
+               |     X          Y          Z          RX         RY         RZ  |
+               |mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph. |
+               +----------------------------------------------------------------+
+  PART/2       |0.00       0.00       0.00       0.00       0.00       0.00     |
+  PART/3       |0.00       0.00       0.00       0.00       0.00       0.00     |
+               +----------------------------------------------------------------+
+
+  -------------------------------------------------------------------------------
+  Energy table for MODE 3
+  -------------------------------------------------------------------------------
+  Damping ratio          =     1.00000E+0
+  Undamped natural freq. =     0.00000E+0 Cycles per unit time
+  Generalized stiffness  =     0.00000E+0 User mass/time^2
+  Generalized mass       =     5.10000E-2 User mass
+  Kinetic energy         =     0.00000E+0 User mass/time^2
+
+                            Normalized coordinates in this mode
+               +----------------------------------------------------------------+
+               |     X          Y          Z          RX         RY         RZ  |
+               |mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph. |
+               +----------------------------------------------------------------+
+  PART/2       |0.00       0.00       0.00       0.00       0.00       0.00     |
+  PART/3       |0.30       0.00       0.00       0.00       0.00       1.00     |
+               +----------------------------------------------------------------+
+
+  -------------------------------------------------------------------------------
+  Energy table for MODE 4
+  -------------------------------------------------------------------------------
+  Damping ratio          =     1.00000E+0
+  Undamped natural freq. =     0.00000E+0 Cycles per unit time
+  Generalized stiffness  =     0.00000E+0 User mass/time^2
+  Generalized mass       =     0.00000E+0 User mass
+  Kinetic energy         =     0.00000E+0 User mass/time^2
+
+                            Normalized coordinates in this mode
+               +----------------------------------------------------------------+
+               |     X          Y          Z          RX         RY         RZ  |
+               |mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph.   mag. ph. |
+               +----------------------------------------------------------------+
+  PART/2       |0.00       0.00       0.00       0.00       0.00       0.00     |
+  PART/3       |0.00       0.00       0.00       0.00       0.00       0.00     |
+               +----------------------------------------------------------------+
+

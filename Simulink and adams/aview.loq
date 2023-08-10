@@ -1,0 +1,6 @@
+! Adams View Adams 2016 (built Jul 22 2016)
+! Graphics:  OpenGL
+! Using software OpenGL overlay plane emulation
+! Enter a command, '?', or 'help'.
+model display model=.Contorl_Automatic view=all
+! >> model display model=.Contorl_Automatic view=all
